@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS datasemhora (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(200),
+    datasem DATE
+);
